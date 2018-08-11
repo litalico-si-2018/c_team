@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Masumi.start.unity
+  isLoaded: 1
+  isActive: 1
