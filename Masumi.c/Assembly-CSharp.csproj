@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Collision_last_station.cs" />
     <Compile Include="Assets\Goal_sound.cs" />
+    <Compile Include="Assets\Goal_train.cs" />
     <Compile Include="Assets\Hyouji.cs" />
     <Compile Include="Assets\Hyouji_fade.cs" />
     <Compile Include="Assets\Kakusu.cs" />
