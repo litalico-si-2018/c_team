@@ -52,9 +52,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Collision_last_station.cs" />
-     <Compile Include="Assets\Counter.cs" />
-     <Compile Include="Assets\director.cs" />
-     <Compile Include="Assets\goal.cs" />
      <Compile Include="Assets\Hyouji.cs" />
      <Compile Include="Assets\Hyouji_fade.cs" />
      <Compile Include="Assets\Kakusu.cs" />
